@@ -75,6 +75,8 @@ bash的扩展有七类：大括号扩展、波浪线扩展、参数变量扩展�
 ## 重定向
 [Here Documents](http://blog.csdn.net/ysdaniel/article/details/6899861)
 
+[文件描述符](http://blog.csdn.net/wesleyluo/article/details/5646384)
+
 形式：
 ```bash
 <<[-]delimiter
