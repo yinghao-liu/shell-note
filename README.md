@@ -88,7 +88,8 @@ delimiter
 若`<<`后面的delimiter没有被`""`引用，那么\\, $ 和`，保持有它们的特殊含义，若想使用其本身使用\进行消除，或者使用引号引用delimiter。
 
 
-
+## 条件表达式
+[shell中的条件表达式](http://www.cnblogs.com/yinghao1991/p/7617965.html)
 
 
 
